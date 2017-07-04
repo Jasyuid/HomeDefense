@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: bbef63eeeae313248ac51a973014c896
+timeCreated: 1429474460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_f
+    21300002: player_b
+    21300004: player_l
+    21300006: player_r
+    21300008: player_f1
+    21300010: player_f2
+    21300012: player_b1
+    21300014: player_l1
+    21300016: player_r1
+    21300018: player_b2
+    21300020: player_l2
+    21300022: player_r2
+    21300024: enemy_f
+    21300026: enemy_f1
+    21300028: enemy_f2
+    21300030: enemy_b
+    21300032: enemy_b1
+    21300034: enemy_b2
+    21300036: enemy_l
+    21300038: enemy_l1
+    21300040: enemy_l2
+    21300042: enemy_r
+    21300044: enemy_r1
+    21300046: enemy_r2
+    21300048: item_vase
+    21300050: item_book
+    21300052: item_remote
+    21300054: item_dish
+    21300056: item_glass
+    21300058: lock
+    21300060: bullet
+    21300062: health_box
+    21300064: switch
+    21300066: x
+    21300068: boss_f
+    21300070: boss_f1
+    21300072: boss_f2
+    21300074: boss_b
+    21300076: boss_l
+    21300078: boss_r
+    21300080: boss_b1
+    21300082: boss_l1
+    21300084: boss_r1
+    21300086: boss_b2
+    21300088: boss_l2
+    21300090: boss_r2
+    21300092: chair
+    21300094: lamp
+    21300096: tv
+    21300098: fridge
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_f
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_b
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_l
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_r
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_f1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_f2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_b1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_l1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_r1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_b2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_l2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_r2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_f
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_f1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_f2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_b
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_b1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_b2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_l
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_l1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_l2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_r
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_r1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_r2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_vase
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_book
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_remote
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_dish
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_glass
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bullet
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_box
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 493
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 490
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_f
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_f1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_f2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_b
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_l
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_r
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 470
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_b1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_l1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_r1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_b2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_l2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_r2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chair
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lamp
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tv
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fridge
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
